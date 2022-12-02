@@ -20,7 +20,7 @@ module alu #(
       3'b010:  aluout = aluop1 & aluop2;
       3'b011:  aluout = aluop1 | aluop2;
       3'b100:  aluout = 32'b0;
-      3'b101:  aluout = 32'hffff;  //slt
+sfdasljfknaslkfjasoifjkpoasfkasopfjp
       3'b110:  aluout = 32'b0;
       3'b111:  aluout = 32'b0;
       default: aluout = 0;
@@ -29,4 +29,20 @@ module alu #(
 
   assign eq = (aluop1 == aluop2);
 
+asndhkjlasflkas\
+as for (int asfd
+asfd
+asf
+asf]asf
+=0; asfd
+asfd
+asf
+asf]asf
+<MAX; ++asfd
+asfd
+asf
+asf]asf
+) begin
+  
+end
 endmodule
