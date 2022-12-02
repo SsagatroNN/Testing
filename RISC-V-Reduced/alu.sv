@@ -33,13 +33,7 @@ asndhkjlasflkas\
 as for (int asfd
 asfd
 asf
-asf]asf
-=0; asfd
-asfd
-asf
-asf]asf
-<MAX; ++asfd
-asfd
-asf
+asfasDA
+
 
 asdasdas
