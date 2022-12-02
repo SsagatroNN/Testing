@@ -20,7 +20,7 @@ module alu #(
       3'b010:  aluout = aluop1 & aluop2;
       3'b011:  aluout = aluop1 | aluop2;
       3'b100:  aluout = 32'b0;
-sfdasljfknaslkfjasoifjkpoasfkasopfjp
+askjdhdjaskdhkjashd
       3'b110:  aluout = 32'b0;
       3'b111:  aluout = 32'b0;
       default: aluout = 0;
